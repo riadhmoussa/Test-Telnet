@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Telnet Test</string>
+    <string name="enter_town_name">Enter Town Name</string>
+    <string name="save">Save</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="no_data">No Data</string>
+
+</resources>
